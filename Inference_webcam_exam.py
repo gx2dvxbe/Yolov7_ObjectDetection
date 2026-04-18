@@ -1,5 +1,5 @@
 # Inference for ONNX model
-# hahaha
+# github practice modified by jimin moon on 2026.04.18
 
 import cv2
 import tensorflow as tf
